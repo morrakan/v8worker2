@@ -1,0 +1,5 @@
+Name: v8
+Description: v8
+Version: xxx
+Cflags: -Iinclude
+Libs: libs/amd64/libv8_monolith.a

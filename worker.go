@@ -25,9 +25,7 @@ package v8worker2
 
 /*
 #cgo CXXFLAGS: -std=c++11
-//#cgo pkg-config: v8.pc
-#cgo LDFLAGS: -Llibs/amd64 -lv8_monolith
-#cgo CFLAGS: -Iinclude
+#cgo pkg-config: v8.pc
 #include <stdlib.h>
 #include "binding.h"
 */
